@@ -1,14 +1,14 @@
-layout_spectrum: 0.5781495657283813
-typography_spectrum: 0.04757722630165517
 color:
+  brandColors:
+    - '#FFFDFF'
+    - '#000000'
+    - '#98A6C0'
+    - '#4C5423'
+    - '#86827F'
   brandStrength: 0.9706496791914105
   lightness: 0.689964085817337
-  saturation: 0.18570472742430866
   rhythmicContrast: 0.3511381312273443
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+  saturation: 0.18570472742430866
+layout_spectrum: 0.5781495657283813
 name: Pilie Speed Shop
+typography_spectrum: 0.04757722630165517
