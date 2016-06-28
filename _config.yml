@@ -22,7 +22,7 @@ color:
     - '#757470'
     - '#fefefe'
     - '#fe6077'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.25
   saturation: 0.125
   rhythmicContrast: 0.25
