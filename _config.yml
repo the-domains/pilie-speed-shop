@@ -1,3 +1,20 @@
+name: Pilie Speed Shop
+favicon: null
+layout_spectrum: 0.5781495657283813
+typography_spectrum: 0.04757722630165517
+title: We specialize in rebuilding and updating classic hot rods
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -7,8 +24,6 @@ color:
     - '#314151'
   brandStrength: 0.9706496791914105
   lightness: 0.689964085817337
-  rhythmicContrast: 0.3511381312273443
   saturation: 0.18570472742430866
-layout_spectrum: 0.5781495657283813
-name: Pilie Speed Shop
-typography_spectrum: 0.04757722630165517
+  rhythmicContrast: 0.3511381312273443
+purpose: []
